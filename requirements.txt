@@ -1,0 +1,7 @@
+# Intentionally left minimal to start from scratch.
+# Install only what you need. For the notebook, you might later do:
+# numpy
+# pandas
+# plotly
+# keras
+# tensorflow
